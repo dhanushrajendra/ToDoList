@@ -1,0 +1,24 @@
+.add-task-input {
+  width: 100%;
+}
+
+.task-list-header {
+  th:first-child {
+    width: 1%;
+  }
+}
+
+.filter-button {
+  margin-right: 12px;
+}
+
+.task-list {
+  .icon {
+    width: 1%;
+    padding-right: 0;
+  }
+  .edit-row {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+}

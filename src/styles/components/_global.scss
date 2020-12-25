@@ -1,0 +1,32 @@
+body,
+html {
+  min-height: 100%;
+  height: 100%;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.app-root {
+  display: flex;
+  height: 100%;
+}
+
+.center-horizontal {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-strike {
+  text-decoration: line-through;
+  opacity: 0.3;
+}
